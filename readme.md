@@ -1,8 +1,8 @@
-# 👋 Hi there! I'm Thanmaya Sri Sigireddi
+# 👋 Hi there! I'm **Thanmaya Sri Sigireddi**
 
-🎓 **Data Science Graduate Student at SUNY Buffalo**  
-💡 Passionate about AI, Machine Learning, Big Data & Creative Tech Solutions  
-🚀 Exploring innovative ways to transform data into impactful insights  
+🎓 **Aspiring Data Scientist | Master's @ SUNY Buffalo**  
+🤖 Driven by a love for AI, Machine Learning & Big Data  
+🚀 Turning data into impact with creativity & code
 
 ---
 
@@ -10,9 +10,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thanmaya-sri-sigireddi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
   </a>
   <a href="mailto:sigireddithanmayasri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-Mail%20me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
+
