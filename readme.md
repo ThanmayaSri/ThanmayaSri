@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm **Thanmaya Sri Sigireddi**
 
 🎓 **Aspiring Data Scientist | Master's @ SUNY Buffalo**  
-💡 AI/ML Enthusiast | 📊 Big Data Developer
+💡 AI/ML Enthusiast 
+📊 Big Data Developer
 
 ---
 
